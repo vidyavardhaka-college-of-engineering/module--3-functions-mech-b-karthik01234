@@ -5,6 +5,11 @@
 	
 	#include<stdio.h>
 	//Write the function for calculating square of a given number
+  int square(int);
+  int square(int a)
+  {
+    return(a*a);
+  }
 	int main()
 	{
 	    int num;
