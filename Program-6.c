@@ -6,6 +6,8 @@
 	#include<stdio.h>
 	int sum(int a,int b)
 	{
+   int c=a+b;
+    return c;
 	    //Complete the missing code
 	}
 	int main()
